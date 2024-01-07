@@ -1,7 +1,15 @@
-![NRVS](https://avatars.githubusercontent.com/u/155911597?s=200&v=4)
 
-# NRVS
-NRVS (pronounced 'nerves') stands for Neurotechnology Research and Ventures through Software.
+
+<div style="width: 50%; height: 50%">
+  
+  ![NRVS](../assets/NRVS_logo.PNG)
+  
+</div>
+
+
+# **NRVS**
+
+*NRVS* (pronounced 'nerves') stands for Neurotechnology Research and Ventures through Software.
 
 This international community is for those looking to experiment with and create useful tools and applications in Neurotechnology through a software based approach.
 
