@@ -1,6 +1,6 @@
 
 
-<div style="width: 50%; height: 50%">
+<div style="width: 30%; height: 50%">
   
   ![NRVS](https://github.com/NRVS-Labs/.github/blob/main/assets/NRVS_logo.PNG)
   
