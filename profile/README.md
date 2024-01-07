@@ -1,10 +1,4 @@
-
-
-<div style="width: 10%; height: 10%">
-  
-  ![NRVS](https://github.com/NRVS-Labs/.github/blob/main/assets/NRVS_logo.PNG)
-  
-</div>
+<img src="https://github.com/NRVS-Labs/.github/blob/main/assets/NRVS_logo.PNG" alt="NRVS" width="200"/>
 
 
 # **NRVS**
