@@ -2,7 +2,7 @@
 
 <div style="width: 50%; height: 50%">
   
-  ![NRVS](../assets/NRVS_logo.PNG)
+  ![NRVS](https://github.com/NRVS-Labs/.github/blob/main/assets/NRVS_logo.PNG)
   
 </div>
 
