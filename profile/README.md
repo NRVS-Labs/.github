@@ -1,4 +1,4 @@
-<img src="https://github.com/NRVS-Labs/.github/blob/main/assets/NRVS_logo.PNG" alt="NRVS" width="200"/>
+<img src="https://github.com/NRVS-Labs/.github/blob/main/assets/NRVS_logo.PNG" alt="NRVS" width="300"/>
 
 
 # **NRVS**
