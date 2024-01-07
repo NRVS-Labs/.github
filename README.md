@@ -1,4 +1,4 @@
-![NRVS]([https://github.com/NeuroTechX/NRVS/assets/3487193/9373775a-8bb4-48e7-a439-c5fb5f02c7ab](https://avatars.githubusercontent.com/u/155911597?s=200&v=4))
+![NRVS](https://avatars.githubusercontent.com/u/155911597?s=200&v=4)
 
 # NRVS
 NRVS (pronounced 'nerves') stands for Neurotechnology Research and Ventures through Software.
