@@ -12,4 +12,4 @@ Reach out to our project maintainers:
 
 Alex Higuera [[alexfigtree](https://github.com/alexfigtree)] [alex@neurotechx.com]
 
-Leo Ferrisi [[LeonardoFerrisi](https://github.com/LeonardoFerrisi)] [leo.ferrisi@neurotechx.com]
+Leonardo Ferrisi [[LeonardoFerrisi](https://github.com/LeonardoFerrisi)] [leonardo.ferrisi@neurotechx.com]
