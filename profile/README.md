@@ -8,10 +8,12 @@
 This international community is for those looking to experiment with and create useful tools and applications in Neurotechnology through a software based approach.
 
 
+## Our project maintainers:
+Alex Higuera [[alexfigtree](https://github.com/alexfigtree)] 
+
+Leonardo Ferrisi [[LeonardoFerrisi](https://github.com/LeonardoFerrisi)]
+
+
 ## Questions?
+Email us nrvslabs@gmail.com
 
-Reach out to our project maintainers:
-
-Alex Higuera [[alexfigtree](https://github.com/alexfigtree)] [alex@neurotechx.com]
-
-Leonardo Ferrisi [[LeonardoFerrisi](https://github.com/LeonardoFerrisi)] [leonardo.ferrisi@neurotechx.com]
