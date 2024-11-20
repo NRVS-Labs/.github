@@ -19,6 +19,8 @@ This international community is for those looking to experiment with and create 
 Want to contribute or have a neurotech software idea you'd like to share with the world? 
 Reach out to us to become a software owner and have your work advertise to users and contributors through NRVS!
 
+Please view our [CONTRIBUTING guidelines](https://github.com/NRVS-Labs/.github/blob/main/docs/CONTRIBUTING.md) for information on contributing to NRVS.
+
 **IMPORTANT**: Software should follow guidance from the [NRVS-PROJECT-TEMPLATE](https://github.com/NRVS-Labs/NRVS-Project-Template).
 
 ## Community
