@@ -1,7 +1,7 @@
 <img src="https://github.com/NRVS-Labs/.github/blob/main/assets/NRVS_logo.PNG" alt="NRVS" width="300"/>
 
 
-# **NRVS**
+# [**NRVS**](https://nrvs-labs.github.io/)
 
 *NRVS* (pronounced 'nerves') stands for **N**eurotechnology **R**esearch and **V**entures through **S**oftware.
 
@@ -32,4 +32,5 @@ Email us nrvslabs@gmail.com
 #
 
 Visit us at [https://nrvs-labs.github.io/](https://nrvs-labs.github.io/)
+
 
